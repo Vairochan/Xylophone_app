@@ -1,6 +1,9 @@
 # Xylophone
 
 A new Flutter project.
+A simple instrumental app made to impliment application functions in dart
+
+<img src ="screenshots/1.png" width="250">
 
 ## Getting Started
 
